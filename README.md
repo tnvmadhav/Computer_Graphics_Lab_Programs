@@ -2,7 +2,7 @@
 
 System OS : MacOS X with X Code version 7.2
 
-## Deployment OS verson : 10.8
+## Deployment OS version : 10.8
 ## Libraries : 
         -> OPENGL.framework
         -> GLUT.framework
